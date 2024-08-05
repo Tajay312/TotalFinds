@@ -19,13 +19,6 @@ styles.css: (Future) CSS file for styling the website.
 images/: (Future) Directory for images used on the site.
 Getting Started
 To view the website locally:
-
-Clone or Download the repository.
-Open the index.html file in a web browser.
-To deploy the website online:
-
-Choose a hosting provider (e.g., GitHub Pages, Netlify, Vercel).
-Upload the index.html file and follow the hosting provider’s instructions.
 Contributions
 Contributions are welcome! If you have suggestions or improvements, please submit a pull request or open an issue in the repository.
 
